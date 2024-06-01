@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuptaAkshat23
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently grinding LeetCode
 - 💞️ I’m looking to collaborate on different projects to gain experience
 - 📫 How to reach me guptaakshat2309@gmail.com
 
