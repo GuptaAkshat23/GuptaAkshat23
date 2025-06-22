@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuptaAkshat23
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently grinding LeetCode
 - 💞️ I’m looking to collaborate on different projects to gain experience
 - 📫 How to reach me guptaakshat2309@gmail.com
