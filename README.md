@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptaakshat23" alt="guptaakshat23" /></a> </p>
 
+- 🔭 I’m currently working on **Lidar based AVC**
+
+- 🌱 I’m currently polishing over **ReactJs**
+
+- 👯 I’m looking to collaborate on **Full Stack Project**
+
 - 📫 How to reach me **guptaakshat2309@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BPJvIoau6H1lNOaoQOwZgLAesJ-O1wWW/view?usp=sharing](https://drive.google.com/file/d/1BPJvIoau6H1lNOaoQOwZgLAesJ-O1wWW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
